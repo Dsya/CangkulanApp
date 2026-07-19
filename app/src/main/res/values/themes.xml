@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.CangkulanApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/game_background</item>
+        <item name="android:windowBackground">@color/game_background</item>
+    </style>
+</resources>
